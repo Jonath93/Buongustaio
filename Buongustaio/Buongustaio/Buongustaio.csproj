@@ -200,6 +200,7 @@
     <Compile Include="Controllers\HelloWorldController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\pruebaController.cs" />
     <Compile Include="Controllers\SeguimientoOrdenController.cs" />
     <Compile Include="Controllers\VentasController.cs" />
     <Compile Include="Global.asax.cs">
@@ -276,6 +277,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Views\Facturas\" />
     <Folder Include="Views\HelloWorld\" />
+    <Folder Include="Views\prueba\" />
     <Folder Include="Views\SeguimientoOrden\" />
     <Folder Include="Views\Ventas\" />
   </ItemGroup>
