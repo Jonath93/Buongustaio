@@ -13,7 +13,7 @@ namespace Buongustaio.Controllers
 
         public string Index()
         {
-            return "This is my <b>default</b> action...";
+            return "This is my <b>default</b>pepino...";
         }
 
         // 
